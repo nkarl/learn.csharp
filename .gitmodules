@@ -1,0 +1,3 @@
+[submodule "projects/PlayingAround"]
+	path = projects/PlayingAround
+	url = https://github.com/nkarl/learn.cs.playingAround
