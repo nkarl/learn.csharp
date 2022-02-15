@@ -1,3 +1,6 @@
 [submodule "projects/PlayingAround"]
 	path = projects/PlayingAround
 	url = https://github.com/nkarl/learn.cs.playingAround
+[submodule "code.samples/Demo_ButtonEvents"]
+	path = code.samples/Demo_ButtonEvents
+	url = https://github.com/nkarl/learn.csharp.demo.button_events.git
