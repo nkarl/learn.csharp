@@ -4,3 +4,12 @@
 [submodule "code.samples/Demo_ButtonEvents"]
 	path = code.samples/Demo_ButtonEvents
 	url = https://github.com/nkarl/learn.csharp.demo.button_events.git
+[submodule "projects/SpreadSheet"]
+	path = projects/SpreadSheet
+	url = https://github.com/nkarl/dotnet.core6.winforms.spreadsheet.rework
+[submodule "projects/ExpressionTree"]
+	path = projects/ExpressionTree
+	url = https://github.com/nkarl/dotnet.core6.console.expression-tree
+[submodule "projects/NotepadApp"]
+	path = projects/NotepadApp
+	url = https://github.com/nkarl/dotnet.core6.winforms.notepad
