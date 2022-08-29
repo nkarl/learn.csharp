@@ -13,3 +13,6 @@
 [submodule "projects/NotepadApp"]
 	path = projects/NotepadApp
 	url = https://github.com/nkarl/dotnet.core6.winforms.notepad
+[submodule "projects/Re.SpreadSheetApp"]
+	path = projects/Re.SpreadSheetApp
+	url = https://github.com/nkarl/dotnet.core6.winforms.spreadsheet.rework.rework
